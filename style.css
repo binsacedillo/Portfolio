@@ -159,9 +159,9 @@ section {
   border-radius: 5px;
   box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
   padding: 20px;
-  width: 200%;
-  height: 120px;
-  margin-bottom: 20px;
+  width: 300%;
+  height: 400px;
+  margin-bottom: 120px;
   margin-left: -30%;
   transition: transform 0.2s ease-in-out;
 }
@@ -189,6 +189,10 @@ section {
     padding-top: 1%;
     padding-right: 1%;
     height: 93%;
+}
+
+#paragraph {
+    font-style: italic;
 }
 
 form {
